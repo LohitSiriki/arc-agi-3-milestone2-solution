@@ -1,0 +1,27 @@
+{"event": "start", "t": 0.0, "games": 25, "concurrency": 28, "budget_s": 1199.158331, "quantum_s": 2400.0, "ucb_c": 0.0002}
+{"event": "slice_done", "t": 1199.2, "game": 1, "kind": "warmup", "service_s": 1199.2, "levels": 1, "actions": 64, "priority": 3.052e-05}
+{"event": "slice_done", "t": 1199.2, "game": 23, "kind": "warmup", "service_s": 1199.1, "levels": 1, "actions": 46, "priority": 3.125e-05}
+{"event": "slice_done", "t": 1199.2, "game": 9, "kind": "warmup", "service_s": 1199.2, "levels": 1, "actions": 34, "priority": 3.118e-05}
+{"event": "slice_done", "t": 1199.2, "game": 18, "kind": "warmup", "service_s": 1199.1, "levels": 0, "actions": 13, "priority": 0.0}
+{"event": "slice_done", "t": 1199.2, "game": 6, "kind": "warmup", "service_s": 1199.2, "levels": 1, "actions": 10, "priority": 2.817e-05}
+{"event": "slice_done", "t": 1199.2, "game": 0, "kind": "warmup", "service_s": 1199.2, "levels": 1, "actions": 37, "priority": 3.094e-05}
+{"event": "slice_done", "t": 1199.2, "game": 3, "kind": "warmup", "service_s": 1199.2, "levels": 0, "actions": 54, "priority": 0.0}
+{"event": "slice_done", "t": 1199.2, "game": 4, "kind": "warmup", "service_s": 1199.2, "levels": 1, "actions": 86, "priority": 2.879e-05}
+{"event": "slice_done", "t": 1199.2, "game": 11, "kind": "warmup", "service_s": 1199.2, "levels": 2, "actions": 89, "priority": 7.014e-05}
+{"event": "slice_done", "t": 1199.2, "game": 20, "kind": "warmup", "service_s": 1199.1, "levels": 3, "actions": 147, "priority": 0.00019145}
+{"event": "slice_done", "t": 1199.2, "game": 13, "kind": "warmup", "service_s": 1199.2, "levels": 0, "actions": 46, "priority": 0.0}
+{"event": "slice_done", "t": 1199.2, "game": 22, "kind": "warmup", "service_s": 1199.1, "levels": 4, "actions": 74, "priority": 0.00034323}
+{"event": "slice_done", "t": 1199.2, "game": 5, "kind": "warmup", "service_s": 1199.2, "levels": 3, "actions": 40, "priority": 0.00017502}
+{"event": "slice_done", "t": 1199.2, "game": 21, "kind": "warmup", "service_s": 1199.2, "levels": 1, "actions": 43, "priority": 3.314e-05}
+{"event": "slice_done", "t": 1199.2, "game": 2, "kind": "warmup", "service_s": 1199.2, "levels": 1, "actions": 26, "priority": 2.844e-05}
+{"event": "slice_done", "t": 1199.2, "game": 15, "kind": "warmup", "service_s": 1199.2, "levels": 0, "actions": 54, "priority": 0.0}
+{"event": "slice_done", "t": 1199.2, "game": 19, "kind": "warmup", "service_s": 1199.2, "levels": 1, "actions": 101, "priority": 3.065e-05}
+{"event": "slice_done", "t": 1199.2, "game": 24, "kind": "warmup", "service_s": 1199.2, "levels": 0, "actions": 11, "priority": 0.0}
+{"event": "slice_done", "t": 1199.2, "game": 10, "kind": "warmup", "service_s": 1199.2, "levels": 3, "actions": 87, "priority": 0.00017905}
+{"event": "slice_done", "t": 1199.2, "game": 16, "kind": "warmup", "service_s": 1199.2, "levels": 0, "actions": 45, "priority": 0.0}
+{"event": "slice_done", "t": 1199.2, "game": 14, "kind": "warmup", "service_s": 1199.2, "levels": 0, "actions": 18, "priority": 0.0}
+{"event": "slice_done", "t": 1199.2, "game": 12, "kind": "warmup", "service_s": 1199.2, "levels": 1, "actions": 49, "priority": 3.247e-05}
+{"event": "slice_done", "t": 1199.3, "game": 8, "kind": "warmup", "service_s": 1199.2, "levels": 1, "actions": 30, "priority": 2.956e-05}
+{"event": "slice_done", "t": 1199.3, "game": 17, "kind": "warmup", "service_s": 1199.2, "levels": 4, "actions": 53, "priority": 0.00028934}
+{"event": "slice_done", "t": 1199.3, "game": 7, "kind": "warmup", "service_s": 1199.3, "levels": 2, "actions": 45, "priority": 9.474e-05}
+{"event": "finish", "t": 1199.3, "warmup": 25, "extension": 0}

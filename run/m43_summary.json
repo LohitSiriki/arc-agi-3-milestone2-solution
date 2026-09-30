@@ -1,0 +1,21 @@
+{
+ "grants": 0,
+ "park_level": 0,
+ "park_grant": 0,
+ "throttled": 0,
+ "resumes": 0,
+ "peak_concurrent": 0,
+ "fairness_waits": 0,
+ "errors": 0,
+ "classes": 1,
+ "parked_seconds": 0.0,
+ "actions_granted_mean": 0.0,
+ "actions_granted_n": 0,
+ "touched": 0,
+ "known": 0,
+ "N": 28,
+ "X": 20,
+ "Y": 4,
+ "cliff": 60,
+ "park_events": []
+}

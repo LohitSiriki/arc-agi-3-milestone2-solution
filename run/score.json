@@ -1,0 +1,349 @@
+{
+  "games": {
+    "ar25-0c556536": {
+      "score": 8.333333333333332,
+      "seed_count": 1,
+      "seed_scores": {
+        "working": 8.333333333333332
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "working": 8.333333333333332
+      }
+    },
+    "bp35-0a0ad940": {
+      "score": 0.0,
+      "seed_count": 1,
+      "seed_scores": {
+        "working": 0.0
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "working": 0.0
+      }
+    },
+    "cd82-fb555c5d": {
+      "score": 0.0,
+      "seed_count": 1,
+      "seed_scores": {
+        "working": 0.0
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "working": 0.0
+      }
+    },
+    "cn04-2fe56bfb": {
+      "score": 4.761904761904762,
+      "seed_count": 1,
+      "seed_scores": {
+        "working": 4.761904761904762
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "working": 4.761904761904762
+      }
+    },
+    "dc22-fdcac232": {
+      "score": 0.0,
+      "seed_count": 1,
+      "seed_scores": {
+        "working": 0.0
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "working": 0.0
+      }
+    },
+    "ft09-0d8bbf25": {
+      "score": 47.61904761904761,
+      "seed_count": 1,
+      "seed_scores": {
+        "working": 47.61904761904761
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "working": 47.61904761904761
+      }
+    },
+    "g50t-5849a774": {
+      "score": 0.0,
+      "seed_count": 1,
+      "seed_scores": {
+        "working": 0.0
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "working": 0.0
+      }
+    },
+    "ka59-38d34dbb": {
+      "score": 3.571428571428571,
+      "seed_count": 1,
+      "seed_scores": {
+        "working": 3.571428571428571
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "working": 3.571428571428571
+      }
+    },
+    "lf52-271a04aa": {
+      "score": 1.8181818181818181,
+      "seed_count": 1,
+      "seed_scores": {
+        "working": 1.8181818181818181
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "working": 1.8181818181818181
+      }
+    },
+    "lp85-305b61c3": {
+      "score": 16.666666666666664,
+      "seed_count": 1,
+      "seed_scores": {
+        "working": 16.666666666666664
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "working": 16.666666666666664
+      }
+    },
+    "ls20-9607627b": {
+      "score": 3.571428571428571,
+      "seed_count": 1,
+      "seed_scores": {
+        "working": 3.571428571428571
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "working": 3.571428571428571
+      }
+    },
+    "m0r0-492f87ba": {
+      "score": 3.935458480913026,
+      "seed_count": 1,
+      "seed_scores": {
+        "working": 3.935458480913026
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "working": 3.935458480913026
+      }
+    },
+    "r11l-495a7899": {
+      "score": 4.761904761904762,
+      "seed_count": 1,
+      "seed_scores": {
+        "working": 4.761904761904762
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "working": 4.761904761904762
+      }
+    },
+    "re86-8af5384d": {
+      "score": 16.666666666666664,
+      "seed_count": 1,
+      "seed_scores": {
+        "working": 16.666666666666664
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "working": 16.666666666666664
+      }
+    },
+    "s5i5-18d95033": {
+      "score": 0.6009254251547382,
+      "seed_count": 1,
+      "seed_scores": {
+        "working": 0.6009254251547382
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "working": 0.6009254251547382
+      }
+    },
+    "sb26-7fbdac44": {
+      "score": 27.77777777777778,
+      "seed_count": 1,
+      "seed_scores": {
+        "working": 27.77777777777778
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "working": 27.77777777777778
+      }
+    },
+    "sc25-635fd71a": {
+      "score": 0.0,
+      "seed_count": 1,
+      "seed_scores": {
+        "working": 0.0
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "working": 0.0
+      }
+    },
+    "sk48-d8078629": {
+      "score": 0.0,
+      "seed_count": 1,
+      "seed_scores": {
+        "working": 0.0
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "working": 0.0
+      }
+    },
+    "sp80-589a99af": {
+      "score": 4.761904761904762,
+      "seed_count": 1,
+      "seed_scores": {
+        "working": 4.761904761904762
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "working": 4.761904761904762
+      }
+    },
+    "su15-1944f8ab": {
+      "score": 2.2222222222222223,
+      "seed_count": 1,
+      "seed_scores": {
+        "working": 2.2222222222222223
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "working": 2.2222222222222223
+      }
+    },
+    "tn36-ef4dde99": {
+      "score": 3.571428571428571,
+      "seed_count": 1,
+      "seed_scores": {
+        "working": 3.571428571428571
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "working": 3.571428571428571
+      }
+    },
+    "tr87-cd924810": {
+      "score": 0.0,
+      "seed_count": 1,
+      "seed_scores": {
+        "working": 0.0
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "working": 0.0
+      }
+    },
+    "tu93-0768757b": {
+      "score": 3.905325443786982,
+      "seed_count": 1,
+      "seed_scores": {
+        "working": 3.905325443786982
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "working": 3.905325443786982
+      }
+    },
+    "vc33-5430563c": {
+      "score": 15.422471467926012,
+      "seed_count": 1,
+      "seed_scores": {
+        "working": 15.422471467926012
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "working": 15.422471467926012
+      }
+    },
+    "wa30-ee6fef47": {
+      "score": 2.2222222222222223,
+      "seed_count": 1,
+      "seed_scores": {
+        "working": 2.2222222222222223
+      },
+      "trial_count": 1,
+      "trial_scores": {
+        "working": 2.2222222222222223
+      }
+    }
+  },
+  "metadata": {
+    "created_at": "2026-09-30T12:11:04.122931Z",
+    "dataset": null,
+    "dataset_description": "",
+    "exclude_tags": [],
+    "experiment_dirs": [
+      "/kaggle/working"
+    ],
+    "game_count": 25,
+    "game_ids": [
+      "tn36-ef4dde99",
+      "lf52-271a04aa",
+      "cn04-2fe56bfb",
+      "bp35-0a0ad940",
+      "wa30-ee6fef47",
+      "lp85-305b61c3",
+      "r11l-495a7899",
+      "tu93-0768757b",
+      "sp80-589a99af",
+      "m0r0-492f87ba",
+      "vc33-5430563c",
+      "ar25-0c556536",
+      "ka59-38d34dbb",
+      "sc25-635fd71a",
+      "sk48-d8078629",
+      "dc22-fdcac232",
+      "cd82-fb555c5d",
+      "ft09-0d8bbf25",
+      "g50t-5849a774",
+      "ls20-9607627b",
+      "re86-8af5384d",
+      "s5i5-18d95033",
+      "sb26-7fbdac44",
+      "su15-1944f8ab",
+      "tr87-cd924810"
+    ],
+    "git_commit": null,
+    "hardware": {},
+    "include_tags": [],
+    "model": null,
+    "re_arc_commit": "57e46d619d02e8129c215af72c81b187b6b51afe",
+    "run_dirs": [
+      "/kaggle/working"
+    ],
+    "run_names": [
+      "working"
+    ],
+    "runtime_budget": {
+      "concurrent_jobs": null,
+      "max_experiment_runtime_hours": null,
+      "max_experiment_runtime_minutes": null,
+      "max_runtime_minutes_per_game": null
+    },
+    "score_source": "taaf.final_score",
+    "scoring_version": "taaf-framework-score-v1",
+    "seed_labels": [
+      "working"
+    ],
+    "seeds": [],
+    "seeds_available": false,
+    "setup_id": null,
+    "trial_count": 25,
+    "trial_labels": [
+      "working"
+    ],
+    "trials": [],
+    "trials_available": true
+  },
+  "score": 6.887611965755963,
+  "version": 1
+}

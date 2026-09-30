@@ -1,0 +1,8 @@
+# Cell 49 of arc-agi-3-duck-18-1gc-submit.ipynb (section: 8. Show the diagnostics)
+print("CONTEXT_REPAIR_SUMMARY", json.dumps(_context_repair_ns["summary"]()), flush=True)
+print('M72_SUMMARY', json.dumps(m72_summary(), default=str), flush=True)
+print('M84_SUMMARY', json.dumps(m84_summary()), flush=True)
+print('M86_SUMMARY', json.dumps(m86_summary()), flush=True)
+print('M87_SUMMARY', json.dumps(M87), flush=True)
+print('M90_SUMMARY', json.dumps(m90_summary()), flush=True)
+print('M85_SUMMARY', json.dumps(m85_summary()), flush=True)
